@@ -15,6 +15,7 @@ I'm a student at Johns Hopkins University. I'm currently a Molecular and Cellula
 At the moment, no contact information is provided.
 
 ### Relevant Coursework
+*Science*
 * Organic Chemistry
 * Chemical Chirality Lab
 * Genetics
@@ -22,6 +23,7 @@ At the moment, no contact information is provided.
 * Biochemistry
 * Protein Engineering and Biochemistry Lab
 
+*Computer Science*
 * Intermediate Programming (C/C++)
 
 ### Languages

@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-# Welcome to my Github website
+# Welcome to my GitHub website
 ## About me
 I'm a student at Johns Hopkins University. I'm currently a Molecular and Cellular Biology major, but I have a big interest in Biophysics and Computer Science.
 

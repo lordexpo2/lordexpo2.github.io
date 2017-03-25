@@ -28,6 +28,6 @@ I'm a student at Johns Hopkins University. I'm currently a Molecular and Cellula
 * Spanish
 * C/C++
 * Java
-* learning Swift, Python
-* basic experience with MATLAB and PyMol
+* Currently learning Swift, Python
+* Basic experience with MATLAB and PyMol
 * I'm open to learning more, if the job requires it

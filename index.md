@@ -12,7 +12,7 @@ I'm a student at Johns Hopkins University. I'm currently a Molecular and Cellula
 * **Research Assistant**, Baylor College of Medicine [Summer 2013-2016]: Over the summers, I would work at Baylor. I worked on making a "rainbow" mouse model with up to five different fluorescent markers for proteins within the Sonic Hedgehog pathway. I also worked with mice, harvesting them and testing the samples. As a side project, I also developed a protocol for testing our mice for lactose dehydrogenase elevating virus (LDEV), as it interfered with accurate results in other experiments.
 
 ## How to get in touch
-* At the moment, no contact information is provided.
+At the moment, no contact information is provided.
 
 ### Relevant Coursework
 * Organic Chemistry
